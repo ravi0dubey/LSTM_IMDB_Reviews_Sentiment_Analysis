@@ -6,7 +6,7 @@ Below is the architecture of **LSTM (Long Short Term Memory)** </br>
  It is neural network which has three componenents/boxes and each box has different functionality. Once the input sequence is passed from three boxes then the output generated is feeded again as input.
  This cycle continues till we achieve better accuracy. </br>
 
- Weights of each boxes are determined/updated using Backward propagation as it is a neural network. </br>
+ Weights of each boxes are determined/updated using Backward Propagation as it is a neural network. </br>
  
  First Box is **Forget Gate** </br>
  Second Box is **Input or Memory Gate** </br>
